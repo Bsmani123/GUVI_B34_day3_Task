@@ -1,0 +1,47 @@
+{
+    "name": "Balasubramanian",
+    "Dob": "04/03/1986",
+    "Father name": "Thirugnanam",
+    "Mother toungue": "Tamil",
+    "Language known": "Tamil,English,kannadam",
+    "Education": [
+        {
+            "Diploma": "Information Technology",
+            "college": "RVS polythechnic",
+            "Year of passing": "2011",
+            "percentage": "68%"
+        },
+        {
+            "Degree": "BE computer science",
+            "college": "Rathinam Technical campus",
+            "Year of passing": "2016",
+            "percentage": "70%"
+        }
+    ],
+    "phone": [
+        9108059804,
+        7708350993
+    ],
+    "Marital status": "Married",
+    "Address": {
+        "Village": "Veeranatham",
+        "Post": "Thirunaraiyur",
+        "Distict": "cuddalore dist"
+    },
+    "Experience": [
+        {
+            "Role": "Customer care excutive",
+            "Company": "JustDial",
+            "Location": "Coimbatore",
+            "Year": "2011/04/15 TO 2013/02/30"
+           
+        },
+        {
+            "Role": "Business Development Executive",
+            "Company": "Red Apple cunsultancy Private limited",
+            "Location": "Bangalore",
+            "Year": "2017/07/16 TO 2021/02/30",
+            
+        }
+    ]
+}
